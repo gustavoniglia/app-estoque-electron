@@ -14,7 +14,7 @@ function CreateWindowns() {
 
 
     // Carregar o arquivo HTML na janela
-    window.loadFile("src/pages/index.html")
+    window.loadFile("src/pages/cadastro.html")
 }
 
 // Evento que acionado quando o Electron está pronto

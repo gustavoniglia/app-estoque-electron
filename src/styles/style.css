@@ -3,3 +3,26 @@ margin: 0; /* Espaçamentos externos */
 padding: 0; /* Espaçamentos internos*/
 box-sizing: border-box; /* Tamanho da caixa */
 }
+
+.hearder {
+    padding: 20px;
+    background-color: aquamarine;
+    color: #fff;
+    text-align: center;
+}
+
+.conteudo{
+    margin: 0 auto;
+}
+
+.card{
+    background-color: green;
+    padding: 80px;
+    border-radius:8px ;
+    width: 80px;
+    margin: 20px  auto;
+}
+
+.card header{
+    display: flex;
+}
